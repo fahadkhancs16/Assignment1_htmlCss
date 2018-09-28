@@ -1,0 +1,307 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	width:auto;
+	height:125px;
+	background-color:#0c426f ;
+	
+	}
+#logo{
+	padding-left: 192px;
+    padding-top: 9px;
+    padding-bottom: 10px;
+	}	
+#search{
+	float: right;
+    margin-right: 200px;
+    margin-top: -52px;
+	}	
+#search input{
+	border-style: none;
+    background-color: #154c7a;
+    color: white;
+    width: 258px;
+    height: 29px;
+    padding: 10px;
+    outline: none;
+
+	}	
+#search button{
+	background: url(../imgs/icon-search.png) no-repeat center;
+    width: 28px;
+    height: 30px;
+    padding-bottom: 10px;
+    margin-left: -3px;
+    border-style: none;
+    background-color: black;
+}	
+
+ #search button:hover{
+
+background-color:#ff00ff;
+}
+#line{
+	background-color: #154c7a;
+    height: 2px;
+    border-style: none;
+    margin-top: -2px;}
+#nav{
+	margin-left: 202px;
+    margin-top: -31px;
+	}
+#nav li{
+	    float: left;
+    list-style: none;
+    display: block;
+    margin: 10px;
+    
+    padding: 16px;
+    color: white;
+    border-right: 2px solid #154c7a;
+    padding-right: 36px;
+    font-size: 13px;}
+	
+	
+#nav #selected{
+	border-top: 4px solid orange;
+    margin-top: 7px;
+    background-color: #154c7a;
+	padding-bottom:15px;
+    padding-left: 28px;}
+.container-fluid{
+	background-color:#CCC;}
+	#myCarousel{
+		width: 85%;
+    margin-left: 98px;}
+	
+#list{
+	margin: 38px;
+    margin-left: 151px;
+    margin-top: 61px;
+	}
+ #list li{
+   float: left;
+    list-style: none;
+    margin-right: 48px;
+    margin-bottom: 34px;
+ }   
+#list li #button1{
+        background-image: url(../imgs/1.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      }	
+#list li #button2{
+        background-image: url(../imgs/2.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      } 
+
+#list li #button3{
+        background-image: url(../imgs/3.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      } 
+
+#list li #button4{
+        background-image: url(../imgs/4.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      } 
+
+#list li #button5{
+        background-image: url(../imgs/5.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      } 
+
+#list li #button6{
+        background-image: url(../imgs/6.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      } 
+
+#list li #button7{
+        background-image: url(../imgs/7.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      } 
+
+#list li #button8{
+        background-image: url(../imgs/8.png);
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+      } 
+#list li #button1:hover{
+    background-image: url(../imgs/11.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   
+#list li #button2:hover{
+    background-image: url(../imgs/12.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   
+#list li #button3:hover{
+    background-image: url(../imgs/13.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   
+#list li #button4:hover{
+    background-image: url(../imgs/14.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   
+#list li #button5:hover{
+    background-image: url(../imgs/15.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   
+#list li #button6:hover{
+    background-image: url(../imgs/16.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   
+   
+#list li #button7:hover{
+    background-image: url(../imgs/17.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   #list li #button8:hover{
+    background-image: url(../imgs/18.png);
+
+    width: 93px;
+    height: 94px;
+    display: inline;
+    border-radius: 58px;
+}   
+   
+   .line2{
+	width: 90%;
+    margin-top: 36px;
+    border: 1px solid #CCC;
+    margin-left: 18px;}
+	
+ .profile{
+	float: right;
+    margin-top: 32px;
+    margin-right: 120px;}
+  .chancllor{
+	 margin-left: 71px;
+    float: left;
+	}
+.chancllor #img{
+	width:100px;
+	height:250px;}	  
+
+#chancllor{
+    width: 156px;
+}    
+#imglogo{
+    margin-left: 133px;
+    width: 227px;
+    margin-bottom: 23px;
+}
+#first h5{
+        margin-left: 181px;
+        font-size: 21px;
+}
+#social{
+        margin: 29px;
+    margin-left: 85px;
+}
+#second img{
+        margin-bottom: 25px;
+        width: 113px;
+    margin-left: 66px;
+}
+
+#second h4{
+    font-size: 17px;
+}
+#searchbox{
+    border: 1px solid black;
+    padding: 24px;
+    margin-top: 41px;
+    margin-bottom: 70px;
+
+}
+#searchbox button{
+    background-color: black;
+    color: white;
+    }
+#searchbox button:hover{
+    background-color: blue;
+}
+#footer{
+    width: auto;
+    height: 320px;
+    background-color: #0a3966;
+
+}
+#footer .container{
+      padding-top: 58px;
+}
+#footer img{
+    width: 155px;
+}
+#footer h5{
+    color: white;
+}
+#footer p{
+    color: #6991b7;
+}
+#forth img{
+        width: 100px;
+}
+#fifth img{
+    width: 80px;
+}
+#copyright{
+    height: 94px;
+    background-color: #083158;
+    
+}
+#copyright p{
+    text-align: center;
+    padding-top: 64px;
+    color: #6991b7;
+}
